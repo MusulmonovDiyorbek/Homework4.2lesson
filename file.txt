@@ -2,3 +2,4 @@ Feature 1 changes
 Additional changes in feature 1
 Final changes in feature 1
 Feature 3 changes
+Additional changes in feature 3
