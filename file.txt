@@ -1,2 +1,3 @@
 Feature 2 changes
 Additional changes in feature 2
+Final changes in feature 2
